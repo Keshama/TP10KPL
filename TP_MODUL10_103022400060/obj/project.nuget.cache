@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VtJKOZU0wbM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Keisya\\source\\repos\\TP_MODUL10_103022400060\\TP_MODUL10_103022400060\\TP_MODUL10_103022400060.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keisya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "C:\\Users\\Keisya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\Keisya\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\Keisya\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.7\\swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "C:\\Users\\Keisya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "C:\\Users\\Keisya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.7\\swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "C:\\Users\\Keisya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
